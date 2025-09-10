@@ -38,5 +38,5 @@ The analysis includes customer behavior, sales trends, marketing ROI, churn anal
 ## 💻 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://https://github.com/ananyak091/BookStore_Analysis
+   git clone https://github.com/ananyak091/BookStore_Analysis
 
